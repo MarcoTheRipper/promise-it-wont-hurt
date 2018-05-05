@@ -1,2 +1,4 @@
 # promise-it-wont-hurt
-My solutions to Promises
+
+These are my own solutions on ECMAScript 6 Promises.
+Clean asynchronous code for much win. :)
